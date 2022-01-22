@@ -3,18 +3,18 @@
     "id": 1,
     "name": "Renault",
     "driver": "       ",
-    "status": "on Base"
+    "status": "On Base"
   },
   {
     "id": 2,
     "name": "Volvo",
     "driver": "       ",
-    "status": "on Base"
+    "status": "On Base"
   },
   {
     "id": 3,
     "name": "DAF XT",
     "driver": "       ",
-    "status": "on Base"
+    "status": "On Base"
   }
 ]
