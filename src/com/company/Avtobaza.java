@@ -20,18 +20,6 @@ public class Avtobaza {
        return null;
    }
 
-   public static Avtobaza makeAvtobaza(int id, String driver) {
-      try{
-          Avtobaza avtobaza = new Avtobaza();
-          avtobaza.id = id;
-          avtobaza.driver = driver;
-          return avtobaza;
-      } catch (Exception e) {
-          System.out.println(e.getMessage());
-      }
-       return null;
-   }
-
     public int getId() {
         return id;
     }
@@ -77,7 +65,7 @@ public class Avtobaza {
     public String toString() {
         return  id + "| " +
                 name + "| " +
-                driver + "| " +
+                driver + "  | " +
                 status;
     }
 }

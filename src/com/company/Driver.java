@@ -32,6 +32,6 @@ public class Driver {
     @Override
     public String toString() {
         return  id + "| " +
-                name + "         |";
+                name + "     |";
     }
 }
