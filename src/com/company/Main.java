@@ -65,7 +65,7 @@ public class Main {
         Avtobaza[] avtobazas3 = {
                 Avtobaza.makeAvtobaza(1, "Renault", "Саша", String.valueOf(Condition.BASE)),
                 Avtobaza.makeAvtobaza(2, "Volvo", "Коля", String.valueOf(Condition.ROUTE)),
-                Avtobaza.makeAvtobaza(3, "DAF XT", "Женя", String.valueOf(Condition.BASE))
+                Avtobaza.makeAvtobaza(3, "DAF XT", "Женя", String.valueOf(Condition.REPAIR))
         };
 
 //        String avtobaza3 = GSON.toJson(avtobazas3);
